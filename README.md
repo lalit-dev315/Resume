@@ -18,15 +18,13 @@ It showcases personal details, skills, work experience, projects, education, and
 
 ---
 
-## 📂 Project Structure
-├── index.html
-└── README.md
-
-
----
-
 ## How to Run
 1. Clone the repository or download the files
 2. Open `index.html` in any web browser
 
+---
+## Portfolio Demo
+
+![alt text](assets/image-1.png)
+![alt text](assets/image-2.png)
 
